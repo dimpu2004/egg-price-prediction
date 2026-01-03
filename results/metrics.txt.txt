@@ -1,0 +1,6 @@
+Model Evaluation Metrics
+
+MAE  : 0.5490
+RMSE : 0.8890
+MAPE : 0.15%
+R²   : 0.9986
